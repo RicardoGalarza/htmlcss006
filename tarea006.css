@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.ft1{
+    flex-wrap: wrap;
+     width: 300px;
+     
+}
+
+.ft2{
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+.ft3{
+    flex-wrap: wrap;
+    width: 300px;
+    
+    
+}
+
+.ft4{
+    flex-wrap: wrap;
+    width: 300px;
+    
+}
+
+.ft5{
+    flex-wrap: wrap;
+    width: 300px;
+    
+}
+
+.ft6{
+    flex-wrap: wrap;
+    width: 300px;
+    
+}
